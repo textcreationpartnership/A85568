@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloudy fight in France: between the Kings army commanded by the Marshal of Thurenne, and the Prince of Conde's forces. With the particulars of the fight; the number killed on both sides, the Prince of Conde's horse being shot under him, and the Duke of Nemours, and many other persons of eminent quality dangerously wounded; and the manner how the Kings forces won their passage over the river Seine, and fell upon their enemies, forcing them to retreat to the city of Paris. Also the rising of the citizens of Paris in a muteny; their drawing the chains, with their firing the town-house, and killing divers of the assembly of the city officers. Likewise, a message sent from the Duke of Lorrain to his brother the Duke of Orleans, concerning his late treaty with the King and court, and his return again into France to assist the Princes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85568</idno>
+            <idno type="STC">Wing G1643</idno>
+            <idno type="STC">Thomason E669_4</idno>
+            <idno type="STC">ESTC R207021</idno>
+            <idno type="EEBO-CITATION">99866096</idno>
+            <idno type="PROQUEST">99866096</idno>
+            <idno type="VID">118358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118358)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E669[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloudy fight in France: between the Kings army commanded by the Marshal of Thurenne, and the Prince of Conde's forces. With the particulars of the fight; the number killed on both sides, the Prince of Conde's horse being shot under him, and the Duke of Nemours, and many other persons of eminent quality dangerously wounded; and the manner how the Kings forces won their passage over the river Seine, and fell upon their enemies, forcing them to retreat to the city of Paris. Also the rising of the citizens of Paris in a muteny; their drawing the chains, with their firing the town-house, and killing divers of the assembly of the city officers. Likewise, a message sent from the Duke of Lorrain to his brother the Duke of Orleans, concerning his late treaty with the King and court, and his return again into France to assist the Princes.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fronde --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118358:1" rendition="simple:additions"/>
+            <p>A Great and Bloudy FIGHT IN FRANCE: BETWEEN The Kings Army commanded by the Marſhal of Thurenne, and the Prince of Conde's Forces.</p>
+            <p>With the particulars of the fight; the number killed on both ſides, the Prince of Conde's Horſe being ſhot un<g ref="char:EOLhyphen"/>der him, and the Duke of Nemours, and many other perſons of eminent quality dangerouſly wound<g ref="char:EOLhyphen"/>ed; and the manner how the Kings forces won their paſſage over the River Seine, and fell upon their enemies, forcing them to re<g ref="char:EOLhyphen"/>treat to the City of PARIS.</p>
+            <p>Alſo the Riſing of the Citizens of Paris in a Muteny; their drawing the Chains, with their firing the Town-houſe, and killing divers of the Aſſembly of the City-Officers.</p>
+            <p>Likewiſe, A Meſſage ſent from the Duke of Lorrain to his Brother the Duke of Orleans, concerning his late treaty with the King and Court, and his re<g ref="char:EOLhyphen"/>turn again into France to aſſiſt the Princes.</p>
+            <p>
+               <add>July 2.</add> 
+               <hi>LONDON:</hi> Printed by <hi>B. A.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118358:2"/>
+            <pb n="3" facs="tcp:118358:2"/>
+            <head>A great and bloudy FIGHT IN FRANCE Between The Kings Army commanded by Marſhal de Thurenne, and the Prince of Condes forces.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HIs Royal Majeſty the King of France, deſiring to terminate the ſufferings of his ſubjects, pur<g ref="char:EOLhyphen"/>poſed to come to Paris, intimating the ſame un<g ref="char:EOLhyphen"/>to the Citizens, expecting an invitation from them to come, without any condition or exception of perſons, and
+<pb n="4" facs="tcp:118358:3"/>ſent a Meſſage to the Aſſembly of the Town houſe to that purpoſe. Many in that Aſſembly moved for a ſubmiſſi<g ref="char:EOLhyphen"/>on, but they were overſwayed by the plurality of voices, and the Meſſenger from the King was impriſoned. The Court reſenting very much this indignity, reſolved that the Kings army ſhould ingage againſt that of the Princes, and fall upon them in their quarters at St. <hi>Cloud,</hi> and Mont Valerica. In order to which, on Sunday laſt Mar<g ref="char:EOLhyphen"/>ſhal Thurenne with his army of 8000 men, met the King with his forces hard by St. Dennis, where they con<g ref="char:EOLhyphen"/>cluced of making a bridg over the river Sein, by which means they might with the more facility fall upon the Princes. The 1 of July, the Prince of Condi and the Duke of Nemors came to St. Cloud, where there hapned ſome diſpute between both armies, about the paſſage, wher the bridg was making, which continued a good ſpace with much gallantry, but at length the Kings forces be<g ref="char:EOLhyphen"/>came Maſters of it and took ſeveral priſoners. The ſame day in the evening, the Kings forces having finiſhed their bridge of boats, they reſolved to fall upon the Princes quarters, who having notice of their deſign, and that Marſhal Thurenne was ready to croſſe the river to come to him, he drew his whole army to this ſide of the river, in the Bois de Boulogue, where the ſaid Marſhal Thuren fel upon his rear. Whereupon 1200 of the Princes horſe thinking to croſs the City of Paris, to paſſe to their ran<g ref="char:EOLhyphen"/>dezvouz in the Suburbs of St. Anthony, the Citizens op<g ref="char:EOLhyphen"/>poſed it; but the Duke of Orleans prevailed ſo much as to get them their paſſage through the City, ſo that they came timely enough to the Princes aſſiſtanc. The Duke of Beaufort rid up and down the City on horſeback, to move the Citizens to ſend ſupply to the Prince, but pre<g ref="char:EOLhyphen"/>vailed but little. Madamoiſelle de Orleans did like<g ref="char:EOLhyphen"/>wiſe ride on horſeback to the Baſtile the better to ſee the
+<pb n="5" facs="tcp:118358:3"/>fight, and cauſed twelve pieces of Ordnance to be ſhot and play upon the Kings forces, but they did work ſmal effect.</p>
+            <p>The fight grew very hot in the Suburbs, both parties having planted their Ordnance there againſt each other, which continued playing a great while, great numbers of men were killed and hurt; the loſſe was equall on both ſides, there being ſlain about 2500 whereof above 1200 of the Princes men, and many wounded. The Prince of Conde had his horſe killed under him, the Dukes of Neaumours and la Rochefoucalt, the Count of Tavanne, and ſeveral others of great quality, are dangerouſly woun<g ref="char:EOLhyphen"/>ded on the Princes party; the Marſhal of Thuren and ſome others of the Kings party.</p>
+            <p>During the fight, the King, Queen, and Cardinal, were hard by upon a little hill looking upon the fight. The Marſhal of Thuren removed his forces to St. Owen, and the King with the Court is at St. Dennis.</p>
+            <p>The Prince of Conde is retreated to Paris, where at firſt he was denied admittance, by reaſon that the King had ſent an expreſs command under his Signet, requi<g ref="char:EOLhyphen"/>ring the Officers of the City not to permit the Princes forces to enter in; but the Duke of Orleans and his daugh<g ref="char:EOLhyphen"/>ter Madamoiſelle comming to the Town houſe, backed with multitudes of people, the Mazariniſts were over<g ref="char:EOLhyphen"/>voted, and the Princes with their Army admitted to paſs through from one end to the other, which extreamly en<g ref="char:EOLhyphen"/>raged the King and Court, that no more regard ſhould be had to the Letter of Signet, inſomuch that they have once more given a ſtop to the Bakers of Goneſs and other places, not permitting them to bring any more bread hi<g ref="char:EOLhyphen"/>ther, ſo that the people are in great want of bread here: Yet notwithſtanding they arm apace, and ſomething will ſuddenly be done to purpoſe, a great Aſſembly being to
+<pb n="6" facs="tcp:118358:4"/>be held, to conſult about the preſent affairs. If the Citi<g ref="char:EOLhyphen"/>zens once reſolve upon an abſolute Union with the Prin<g ref="char:EOLhyphen"/>ces, (as it is probable they may) the Court will then be brought to a parting with the Cardinal upon any reaſon<g ref="char:EOLhyphen"/>able terms.</p>
+            <closer>
+               <dateline>Paris, <date>Iuly 3. ſtil. nov. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another Letter from Paris, Dated Iuly 6, new ſtile, 1652.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Cardinal Mazarini is ſtill poſſeſt of the hearts of the King and Court, they will not yet part with him, which puts all things out of hope of an accommodation; The people of this City are ſo much incenſed thereby, that they have burſt forth into a great muteny, ready to make the whole Aſſembly of the City Officers at the Town-houſe a ſacrifice to their fury. The ſame morn<g ref="char:EOLhyphen"/>ing they ſate, the Duke of Orleans and the Prince of Conde walked through the ſtreets of this City with a Hatband made of ſtraw; this badge was preſently taken up by all ſorts, although for different ends; ſome to be diſtinguiſhed from the Mazariniſts, and others for fear of being torn in pieces. In this poſture great multitudes came together about the Town-houſe, crying out, that the Queen ſhould renounce all State-affairs, that the Car<g ref="char:EOLhyphen"/>dinal ſhould be gone, and ſome ſpeedy agreement made
+<pb n="7" facs="tcp:118358:4"/>for a Union betwixt the Princes and the City: The Aſ<g ref="char:EOLhyphen"/>ſembly being moved with fear at this ſudden uproar, ſent five thouſand Fire-locks to the Princes party; yet were not the people herewith ſatisfied, but that ſtill they cried out. That Cardinal Mazarine ſhould depart, and ſome ſpeedy Agreement made for an UNION be<g ref="char:EOLhyphen"/>twixt the Princes and the City: The Officers of the Aſſembly thereupon came forth unto the people, deſiring they might have eight days liberty to conſider of their deſires. But the people grew ſo furious at this delay, that they ſet the Gates of the ſaid houſe on fire, and ſhattered all the windows with their Muskets and Guns; but the Architecture being of ſtone, withſtood the fire, ſo that they were but a little ſmoaked, and ſome Statues a<g ref="char:EOLhyphen"/>gainſt the wall ſpoiled.</p>
+            <p>The Prieſts of St. Eſprit came forth in ſolemn Proceſ<g ref="char:EOLhyphen"/>ſion to appeaſe the uproar, but to little purpoſe; for the Aſſembly were detained as priſoners, and at night ſome of them offering to get away, five or ſix were ſlain as Ma<g ref="char:EOLhyphen"/>zariniſts, though indeed they were not. The better ſort of Citizens fearing in this Hurly-burly to be plundered and diſpoyled of all, betook themſelves to arms, and drew the Chains throughout the City, the better to ſecure themſelves and their Goods. But at length, Madamoi<g ref="char:EOLhyphen"/>ſelle daughter to the Duke of Orleans, and the Duke of Beaufort comming amongſt the people, with much adoe their fury was a little mittigated, upon promiſe of an U<g ref="char:EOLhyphen"/>nion, which at laſt the Aſſembly concluded, and paſſed a formal Act, which wants nothing but the ſigning by thoſe that dare not deny.</p>
+            <p>The Princes Army marched, the evening after the fight, through this City of Pont Neuf to the Suburbs of S. German. It is thought they will not dare to budge out of Town.</p>
+            <pb n="8" facs="tcp:118358:5"/>
+            <p> The Duke of Lorrain hath ſent a letter to his brother the Duke of Orleans, wherein with many complements he excuſeth himſelf concerning his late actings in this treaty with the Court; ſaying, that he had no reaſon to make terms with the Court, becauſe Conde uſed many delays, and would not make good to him what he had promiſed; yet nevertheleſſe, he ſaith, that now he hath according to his promiſe and engagement with the Court, retired himſelf and his army out of France, he is ready to return again to the Princes aſſiſtance without any condition. But having proved himſelf ſo perfidious unto them in his underhand Treating with the Court, it is thought they wil be unwilling to truſt him again, and will rather rely upon the promiſe of the Arch-Duke, who hath a meſſage ſent to the Duke of Orleans, intimating to him, that he will give over the ſiege at Dunkirk, and bring all his forces to aſſiſt him.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
